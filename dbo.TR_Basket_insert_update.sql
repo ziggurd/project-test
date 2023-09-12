@@ -1,4 +1,4 @@
-﻿
+﻿--Создаем триггер--
 Create Trigger TR_Basket_insert_update
 ON dbo.Basket
 After Insert, Update
