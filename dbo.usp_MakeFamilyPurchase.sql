@@ -1,4 +1,4 @@
-﻿--Создание процедуры
+﻿--Создание процедуры--
  Create Procedure dbo.usp_MakeFamilyPurchase
 	@FamilySurname varchar(255)
 AS
