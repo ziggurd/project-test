@@ -1,5 +1,5 @@
 ﻿
-  -- Cоздание таблицы dbo.SKU
+  -- Cоздание таблицы dbo.SKU---
   IF OBJECT_ID('dbo.SKU', 'U') IS NOT NULL DROP TABLE dbo.SKU;
   Create table dbo.SKU (
   ID INT identity primary key,
