@@ -1,4 +1,4 @@
-﻿--Создание функции
+﻿--Создание функции--
 Create Function dbo.udf_GetSKUPrice ( @ID_SKU INT)
 Returns decimal (18,2)
 As
